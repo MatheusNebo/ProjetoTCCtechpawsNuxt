@@ -35,14 +35,5 @@
 </template>
 
 <script>
-export default {
-  layout: 'layoutlogin',
-  head() {
-    return {
-      link: [
-        { rel: 'stylesheet', href: '/css/stylelogin.css' }
-      ]
-    };
-  }
-}
+
 </script>
