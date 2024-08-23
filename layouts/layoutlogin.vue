@@ -1,11 +1,10 @@
 <template>
     <div>
+        <p>layout</p>
         <NuxtPage />
     </div>
 </template>
 
-<script>
-export default{
-    
-}
-</script>
+<style scoped>
+@import '/components/assets/sylelogin.css';
+</style> 

@@ -1,3 +1,4 @@
+
 <template>
 <div class="container-principal">
     <div class="container-titulo">
@@ -43,7 +44,16 @@
         </form>
         <p class="paragrafo">Já possui uma conta? </p>
         <p class="cadastrar"><a href="login.html">Faça seu login</a> </p>
-
     </div>
 </div>
 </template>
+
+<style scoped>
+@import '/components/assets/sylelogin.css';
+</style>
+
+<script setup lang="ts">
+definePageMeta({
+  layout: 'layoutlogin'
+})
+</script>

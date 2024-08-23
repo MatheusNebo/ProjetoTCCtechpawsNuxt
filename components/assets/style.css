@@ -162,6 +162,7 @@ footer p {
 
 .infoperfil {
     text-align: left;
+    font-size: 120%;
 }
 
 button {
@@ -251,4 +252,8 @@ button:hover {
     grid-template-columns:repeat(2, 2fr);
     grid-template-rows:repeat(1, 1fr);
     align-items: center;
+}
+
+.button-container{
+    text-align: center;
 }
