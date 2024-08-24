@@ -2,24 +2,22 @@
     <header>
     <h1> Seja Um Voluntário</h1>
     </header>
+    <section>
     <div class="div2">
 
-        <main>
-        <h2>O que é o Voluntariado</h2>
         <ul>
-           <li>
+          <h2>O que é o Voluntariado</h2>
+           
             Já pensou em transformar a vida de um animalzinho? Ao se tornar voluntário,
              você ajudará a cuidar e tratar de animais necessitados, oferecendo a eles uma chance de uma vida melhor. 
              Além de contribuir diretamente para o bem-estar dos pets, você ganhará experiências valiosas e fará novas amizades. 
              Sua ajuda é essencial para a nossa causa e pode fazer uma grande diferença. Junte-se a nós e ajude a criar um mundo 
              mais gentil para nossos amigos de quatro patas!    
-           </li>
+           
         </ul>
-    </main>
-
-        <section>
             <form action="" class="infoperfil">
                 <ul>
+                  <h2>Formulário</h2>
                 <li>
                     <label for="">Nome: </label>
                     <input type="text"
@@ -60,10 +58,9 @@
 
                 
 
-            </form>
-        </section>
-
-        </div>
+            </form>       
+          </div>
+      </section>
     </template>
     
     <style>
@@ -79,7 +76,6 @@
     box-sizing: border-box;
     color: #000;
     border-radius: 5px;
-    background-color: rgb(255, 255, 255); 
     transition: border-color 0.3s, background-color 0.3s;
 
   }
