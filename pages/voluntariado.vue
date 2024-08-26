@@ -10,10 +10,10 @@
           <h2>O que é o Voluntariado</h2>
            
             Já pensou em transformar a vida de um animalzinho? Ao se tornar voluntário,
-             você ajudará a cuidar e tratar de animais necessitados, oferecendo a eles uma chance de uma vida melhor. 
-             Além de contribuir diretamente para o bem-estar dos pets, você ganhará experiências valiosas e fará novas amizades. 
-             Sua ajuda é essencial para a nossa causa e pode fazer uma grande diferença. Junte-se a nós e ajude a criar um mundo 
-             mais gentil para nossos amigos de quatro patas!    
+            você ajudará a cuidar e tratar de animais necessitados, oferecendo a eles uma chance de uma vida melhor. 
+            Além de contribuir diretamente para o bem-estar dos pets, você ganhará experiências valiosas e fará novas amizades. 
+            Sua ajuda é essencial para a nossa causa e pode fazer uma grande diferença. Junte-se a nós e ajude a criar um mundo 
+            mais gentil para nossos amigos de quatro patas!    
            
         </ul>
             <form action="" class="infoperfil">

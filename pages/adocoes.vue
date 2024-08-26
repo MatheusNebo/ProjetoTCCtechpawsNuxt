@@ -1,9 +1,9 @@
 <template>
     <div class="fade-in">
-<section>
     <header>
         <h2>Pets Disponíveis para Adoção</h2>
     </header>
+    <section>
     <ul class="pAdocoes">
         <li>
             Nome: Fido <br>
