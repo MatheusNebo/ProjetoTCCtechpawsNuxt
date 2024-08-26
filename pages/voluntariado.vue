@@ -1,4 +1,5 @@
 <template>
+  <div class="fade-in">
     <header>
     <h1> Seja Um Voluntário</h1>
     </header>
@@ -61,6 +62,7 @@
             </form>       
           </div>
       </section>
+    </div>
     </template>
     
     <style>

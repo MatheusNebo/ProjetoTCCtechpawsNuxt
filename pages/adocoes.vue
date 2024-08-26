@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="fade-in">
 <section>
     <header>
         <h2>Pets Disponíveis para Adoção</h2>

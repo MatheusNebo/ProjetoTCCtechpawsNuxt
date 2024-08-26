@@ -1,4 +1,5 @@
 <template>
+    <div class="fade-in">
     <header>
  <h1>Ficha de Anamnese</h1>
     </header>
@@ -41,4 +42,5 @@
 
 
     </section>
+</div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="fade-in">
     <header>
         <h1>Seu Perfil</h1>
     </header>

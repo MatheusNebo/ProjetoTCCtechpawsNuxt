@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="fade-in">
         <div class="container-principal">
         <div class="container-titulo">
             <h2>LOGIN</h2>

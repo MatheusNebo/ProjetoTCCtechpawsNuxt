@@ -1,6 +1,6 @@
 
 <template>
-<div class="container-principal">
+<div class="container-principal, fade-in">
     <div class="container-titulo">
         <h2>CADASTRO</h2>
     </div>

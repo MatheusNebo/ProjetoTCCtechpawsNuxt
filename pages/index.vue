@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="fade-in">
       <section>
         <h2><nuxt-link to="/adocoes">Adoções</nuxt-link></h2>
         <img class="imgsection" src="/components/assets/img/TechPaws1.png" />
