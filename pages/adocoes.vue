@@ -5,10 +5,15 @@
     </header>
     <section>
     <ul class="pAdocoes">
-        <li>
+        <li class="div2">
+            <div>
             Nome: Fido <br>
             Idade: 2 anos <br>
             Descrição: Um cão amigável e cheio de energia, adora brincar e é ótimo com crianças.
+            </div>
+            <div class="button-container">
+                <button><nuxt-link to="/infoanimal">Ver Mais</nuxt-link></button>
+            </div>
         </li>
         <li>
             Nome: Bella <br>
@@ -25,3 +30,6 @@
     </div>
 </template>
 
+<style scoped>
+@import '/components/assets/sylelogin.css';
+</style>

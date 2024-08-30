@@ -166,15 +166,21 @@ footer p {
 }
 
 button {
-    transition: color 0.3s ease, text-decoration 0.3s ease;
+    background-color: white;
+    padding: 10px 15px;
     border: none;
-    background-color: transparent;
-    color: #000;
-}
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border:#ddd solid 1px;
+    border-radius: 4px;   
+    margin: 5%;
+    }
 
 button:hover {
     text-decoration: none;
-    color: #00da36;
+    background-color: #a6f7ae;
 }
 
 .btnsidebar:hover{
@@ -205,7 +211,7 @@ button:hover {
 }
 
 #menu a:hover {
-    color: #00da36;
+    color: #a6f7ae;
 }
 
 .closebtn {
@@ -245,6 +251,7 @@ button:hover {
 .divficha{
     margin: 2%;
     border: 1px solid #ddd;
+    text-align: left;
     }
 
 .div2{

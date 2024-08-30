@@ -1,8 +1,9 @@
 <template>
-    <div class="fade-in">
-        <div class="container-principal">
+    <div class="fade-in, container-principal">
         <div class="container-titulo">
+            <header>
             <h2>LOGIN</h2>
+            </header>
         </div>
         <div class="container-form">
             <form action="">
@@ -23,17 +24,19 @@
                
                 <div class="button-container">
                     <button type="submit" class="button-enviar">Entrar</button>
+                    <br><br>
                 </div>
             </form>
             <p class="paragrafo">Ainda não possui uma conta?</p>
-            <p class="cadastrar"><a href="cadastro.html">Faça seu cadastro</a> </p>
-
-
+            <p class="cadastrar"><nuxt-link to="/cadastro" class="linkheader">Faça seu Cadastro</nuxt-link></p>
         </div>
-    </div>
     </div>
 </template>
 
-<script>
+<style scoped>
+@import '/components/assets/sylelogin.css';
+</style>
+
+<script setup>
 
 </script>

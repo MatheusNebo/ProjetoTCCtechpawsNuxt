@@ -7,7 +7,7 @@
         <div>
             <img class="imgsection" src="/components/assets/img/perfil.svg" alt="Imagem de Perfil">
             <br>
-            <button><strong>Editar Foto</strong></button>   
+            <button>Editar Foto</button>   
         </div>
         <div>
             <ul>
@@ -17,8 +17,12 @@
                 <li>Senha: aaaa</li>
                 <li>CPF: aaaa</li>
             </ul>
-            <button><strong>Editar Seus Dados</strong></button>  
+            <button><nuxt-link to="/editarperfil">Editar seus Dados</nuxt-link></button>  
         </div> 
     </section>
 </div>
 </template>
+
+<style scoped>
+@import '/components/assets/sylelogin.css';
+</style>
